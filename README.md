@@ -6,7 +6,7 @@
 <h1><b>Contents</b></h1>
 
 * <a href="#prerequisites">Prerequisites</a>
-* <a href="#">Introduction</a>
+* <a href="#introduction">Intro</a>
 * <a href="#">Core concepts</a>
 * <a href="#">Advanced</a>
 * <a href="#">Extra</a>
@@ -26,3 +26,15 @@ Here is some resources to learn these topics:
 * [FreeCodeCamp - Algorithms and Data Structures](https://youtu.be/8hly31xKli0) (video - English).
 * [Adel Nasim - Data Structures Full Course](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) (playlist - Arabic).
 * [Omar Ahmed - OOP - بالعربي](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) (playlist - Arabic).
+
+
+<h2 id="introduction"><b>Intro</b></h2>
+
+This section introduces fundamental topics in web development, including Internet, Browsers, Hosting, and Frontend vs Backend, necessary to understand how the internet works. Relevant resources are provided to aid in learning.
+
+| Topic | Effort | Prerequisites | Resources |
+| ----- | ------ | ------------- | --------- |
+| Internet | 30 minutes | none | [How the Internet Works](https://youtu.be/e4S8zfLdLgQ), [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet) |
+| Browsers | 1 hour | none | [How browsers work](https://web.dev/howbrowserswork/), [How Do Web Browsers Work?](https://youtu.be/WjDrMKZWCt0) |
+| Hosting | 30 minutes | none | [What Is Web Hosting?](https://youtu.be/htbY9-yggB0), [Different Types of Web Hosting](https://youtu.be/AXVZYzw8geg) |
+| Frontend vs Backend | 10 minutes | none | [Frontend web development](https://youtu.be/WG5ikvJ2TKA) |
