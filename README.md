@@ -32,8 +32,8 @@ Here is some resources to learn these topics:
 
 This section introduces fundamental topics in web development, including Internet, Browsers, Hosting, and Frontend vs Backend, necessary to understand how the internet works. Relevant resources are provided to aid in learning.
 
-| Topic | Effort | Prerequisites | Resources |
-| ----- | ------ | ------------- | --------- |
+| Topic | Effort | Prerequisites | Resources | Done |
+| ----- | ------ | ------------- | --------- | ---- |
 | Internet | 30 minutes | none | [How the Internet Works](https://youtu.be/e4S8zfLdLgQ), [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet) |
 | Browsers | 1 hour | none | [How browsers work](https://web.dev/howbrowserswork/), [How Do Web Browsers Work?](https://youtu.be/WjDrMKZWCt0) |
 | Hosting | 30 minutes | none | [What Is Web Hosting?](https://youtu.be/htbY9-yggB0), [Different Types of Web Hosting](https://youtu.be/AXVZYzw8geg) |
