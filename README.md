@@ -5,13 +5,25 @@
 
 <h1><b>Contents</b></h1>
 
+- <a href="#timeline">Timeline</a>
 - <a href="#goodToKnow">Good To Know</a>
 - <a href="#introduction">Intro</a>
 - <a href="#core">Core Concepts</a>
 - <a href="#">Advanced</a>
 - <a href="#">Extra</a>
 
+<h2 id="timeline"><b>Timeline</b></h2>
+
+| phase | effort |
+| ----- | ------ |
+| Intro | 2.5 hours |
+| Core | 60 hours |
+| Advanced | --- |
+| Extra | --- |
+
+
 <h2 id="goodToKnow"><b>Good To Know</b></h2>
+
 This roadmap assumes you have already studied the following topics:
 
 - At least **one** programming language, such as **JavaScript**, **C++**, or **Java**, and a basic understanding of the concepts of programming, such as variables, loops, and functions.
