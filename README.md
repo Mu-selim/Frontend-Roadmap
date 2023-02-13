@@ -5,13 +5,13 @@
 
 <h1><b>Contents</b></h1>
 
-- <a href="#prerequisites">Prerequisites</a>
+- <a href="#goodToKnow">Good To Know</a>
 - <a href="#introduction">Intro</a>
-- <a href="#core">Core concepts</a>
+- <a href="#core">Core Concepts</a>
 - <a href="#">Advanced</a>
 - <a href="#">Extra</a>
 
-<h2 id="prerequisites"><b>Prerequisites</b></h2>
+<h2 id="goodToKnow"><b>Good To Know</b></h2>
 This roadmap assumes you have already studied the following topics:
 
 - At least **one** programming language, such as **JavaScript**, **C++**, or **Java**, and a basic understanding of the concepts of programming, such as variables, loops, and functions.
@@ -30,6 +30,8 @@ Here is some resources to learn these topics:
 
 <h2 id="introduction"><b>Intro</b></h2>
 
+***Objectives:***
+
 This section introduces fundamental topics in web development, including Internet, Browsers, Hosting, and Frontend vs Backend, necessary to understand how the internet works. Relevant resources are provided to aid in learning.
 
 | Topic | Effort | Resources | Done |
@@ -42,13 +44,25 @@ This section introduces fundamental topics in web development, including Interne
 
 <h2 id="core"><b>Core</b></h2>
 
+***Objectives:***
+
+This section introduces the core concepts of frontend development, including HTML5, CSS3, Responsive design using TailwindCSS or Bootstrap, and version control. Relevant resources are provided to aid in learning.
+
 - <a href="#IntroductiontoFrontEndDevelopment">Introduction to Front-End Development</a>
 - <a href="#HTML5">HTML5</a>
 - <a href="#">CSS3</a>
 - <a href="#">TailwindCSS | Bootstrap</a>
 - <a href="#">Git/GitHub</a>
 
-<h4 id="IntroductiontoFrontEndDevelopment"><b>Introduction</b></h4>
+<h3 id="IntroductiontoFrontEndDevelopment"><b>Introduction</b></h3>
+
+You’ll be introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences. 
+
+By the end of the course, you will be able to: 
+- Describe the front-end developer role.
+- Explain the core and underlying technologies that power the internet.
+- Use HTML to create a simple webpage.
+- Use CSS to control the appearance of a simple webpage.
 
 | Resource | Effort | Done |
 | -------- | ------ | ---- |
@@ -62,3 +76,10 @@ HTML5 is the latest version of the HTML standard, which is the markup language u
 | Resource | Effort | Done |
 | -------- | ------ | ---- |
 | [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours | |
+
+<h4 id="HTML5"><b>Task list</b></h4>
+
+- [ ] [task 1](Tasks/HTML5/Task1.md)
+- [ ] [task 2](Tasks/HTML5/Task2.md)
+- [ ] [task 3](Tasks/HTML5/Task3.md)
+- [ ] [task 4](Tasks/HTML5/Task4.md)
