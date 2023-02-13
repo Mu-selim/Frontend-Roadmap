@@ -50,7 +50,7 @@ This section introduces the core concepts of frontend development, including HTM
 
 - <a href="#IntroductiontoFrontEndDevelopment">Introduction to Front-End Development</a>
 - <a href="#HTML5">HTML5</a>
-- <a href="#">CSS3</a>
+- <a href="#CSS3">CSS3</a>
 - <a href="#">TailwindCSS | Bootstrap</a>
 - <a href="#">Git/GitHub</a>
 
@@ -83,3 +83,23 @@ HTML5 is the latest version of the HTML standard, which is the markup language u
 - [ ] [task 2](Tasks/HTML5/Task2.md)
 - [ ] [task 3](Tasks/HTML5/Task3.md)
 - [ ] [task 4](Tasks/HTML5/Task4.md)
+
+
+<h4 id="CSS3"><b>CSS3</b></h4>
+
+CSS3 is the latest version of the CSS standard, which is the language used to style web pages. It is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.
+
+| Resource | Effort | Done |
+| -------- | ------ | ---- |
+| [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 12 hours | |
+
+<h4><b>Task list</b></h4>
+
+- [ ] [task 1](Tasks/CSS3/Task)
+- [ ] [task 2](Tasks/CSS3/Task)
+- [ ] [task 3](Tasks/CSS3/Task)
+- [ ] [task 4](Tasks/CSS3/Task)
+- [ ] [task 5](Tasks/CSS3/Task)
+- [ ] [task 6](Tasks/CSS3/Task)
+- [ ] [task 7](Tasks/CSS3/Task)
+- [ ] [task 8](Tasks/CSS3/Task)
