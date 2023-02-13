@@ -77,7 +77,7 @@ HTML5 is the latest version of the HTML standard, which is the markup language u
 | -------- | ------ | ---- |
 | [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours | |
 
-<h4 id="HTML5"><b>Task list</b></h4>
+<h4><b>Task list</b></h4>
 
 - [ ] [task 1](Tasks/HTML5/Task1.md)
 - [ ] [task 2](Tasks/HTML5/Task2.md)

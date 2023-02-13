@@ -1,4 +1,4 @@
-# **Task 2**
+# **Task 3**
 
 - Create an HTML page and fill it with the following:
   - At the top of the page, create a navigation bar with a logo and 3 links "section1", "section2", and "section3".
