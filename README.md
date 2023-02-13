@@ -95,8 +95,8 @@ CSS3 is the latest version of the CSS standard, which is the language used to st
 
 <h4><b>Task list</b></h4>
 
-- [ ] [task 1](Tasks/CSS3/Task)
-- [ ] [task 2](Tasks/CSS3/Task)
+- [ ] [task 1](Tasks/CSS3/Task1)
+- [ ] [task 2](Tasks/CSS3/Task2)
 - [ ] [task 3](Tasks/CSS3/Task)
 - [ ] [task 4](Tasks/CSS3/Task)
 - [ ] [task 5](Tasks/CSS3/Task)
