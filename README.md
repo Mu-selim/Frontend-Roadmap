@@ -97,9 +97,7 @@ CSS3 is the latest version of the CSS standard, which is the language used to st
 
 - [ ] [task 1](Tasks/CSS3/Task1)
 - [ ] [task 2](Tasks/CSS3/Task2)
-- [ ] [task 3](Tasks/CSS3/Task)
-- [ ] [task 4](Tasks/CSS3/Task)
-- [ ] [task 5](Tasks/CSS3/Task)
-- [ ] [task 6](Tasks/CSS3/Task)
-- [ ] [task 7](Tasks/CSS3/Task)
-- [ ] [task 8](Tasks/CSS3/Task)
+- [ ] [task 3](Tasks/CSS3/Task3)
+- [ ] [task 4](Tasks/CSS3/Task4)
+- [ ] [task 5](Tasks/CSS3/Task5)
+- [ ] [task 6](Tasks/CSS3/Task6)
