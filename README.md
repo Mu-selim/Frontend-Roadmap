@@ -10,8 +10,8 @@
 - <a href="#goodToKnow">Good To Know</a>
 - <a href="#introduction">Intro</a>
 - <a href="#core">Core Concepts</a>
+- <a href="#">Intermediate</a>
 - <a href="#">Advanced</a>
-- <a href="#">Extra</a>
 
 <h2 id="timeline"><b>Timeline</b></h2>
 
@@ -19,8 +19,8 @@
 | ----- | ------ |
 | Intro | 2.5 hours |
 | Core | 60 hours |
+| Intermediate | --- |
 | Advanced | --- |
-| Extra | --- |
 
 
 <h2 id="goodToKnow"><b>Good To Know</b></h2>
@@ -64,8 +64,8 @@ This section introduces the core concepts of frontend development, including HTM
 - <a href="#IntroductiontoFrontEndDevelopment">Introduction to Front-End Development</a>
 - <a href="#HTML5">HTML5</a>
 - <a href="#CSS3">CSS3</a>
-- <a href="#tailwindcss">TailwindCSS | Bootstrap</a>
-- <a href="#">Git/GitHub</a>
+- <a href="#tailwindcss">Tailwind CSS | Bootstrap</a>
+- <a href="#versionControl">Version Control</a>
 
 <h3 id="IntroductiontoFrontEndDevelopment"><b>Introduction</b></h3>
 
@@ -151,3 +151,15 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 | [Arabic - Bootstrap 5](https://youtu.be/65EFKUpYk2A) | 2 hours | |
 
 #### **Task list**: the same as in tailwind.
+<br>
+
+<h4 id="versionControl"><b>Version Control</b></h4>
+
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the purpose of this section, we will be using Git and GitHub.
+
+| Resources | Effort | Done |
+| --------- | ------ | ---- |
+| [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc) | 6 hours | |
+| [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours | |
+
+<br>
