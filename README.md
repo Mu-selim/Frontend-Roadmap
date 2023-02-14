@@ -14,7 +14,7 @@
 
 <h2 id="timeline"><b>Timeline</b></h2>
 
-| phase | effort |
+| **Phase** | Effort |
 | ----- | ------ |
 | Intro | 2.5 hours |
 | Core | 60 hours |
@@ -63,7 +63,7 @@ This section introduces the core concepts of frontend development, including HTM
 - <a href="#IntroductiontoFrontEndDevelopment">Introduction to Front-End Development</a>
 - <a href="#HTML5">HTML5</a>
 - <a href="#CSS3">CSS3</a>
-- <a href="#">TailwindCSS | Bootstrap</a>
+- <a href="#tailwindcss">TailwindCSS | Bootstrap</a>
 - <a href="#">Git/GitHub</a>
 
 <h3 id="IntroductiontoFrontEndDevelopment"><b>Introduction</b></h3>
@@ -113,3 +113,29 @@ CSS3 is the latest version of the CSS standard, which is the language used to st
 - [ ] [task 4](Tasks/CSS3/Task4)
 - [ ] [task 5](Tasks/CSS3/Task5)
 - [ ] [task 6](Tasks/CSS3/Task6)
+
+
+<h4 id="tailwindcss"><b>Tailwind CSS</b></h4>
+
+Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+
+#### 🤔 ***Why Tailwind CSS over Bootstrap?***
+Some of the benefits of Tailwind over Bootstrap include:
+- **Highly customizable**: Tailwind provides a vast collection of small, composable utility classes that you can combine to create unique and custom styles, making it more flexible and adaptable than Bootstrap.
+- **Smaller file sizes**: Unlike Bootstrap, which includes a lot of pre-defined CSS code, Tailwind only includes the styles that you use, which can lead to smaller file sizes and faster load times.
+- **Mobile-first approach**: Tailwind is built with a mobile-first approach, which means that the default styles are optimized for small screens, making it easier to create responsive designs.
+- **No pre-existing design language**: Tailwind doesn't come with pre-built components or a specific design language, which can allow for more creative freedom and better fit with the branding or design language of the project.
+
+| Resource | Effort | Done |
+| -------- | ------ | ---- |
+| [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook) | 100 seconds | |
+| [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours | |
+| [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) | 2 hours | |
+
+<h4><b>Task list</b></h4>
+
+- [ ] [task 1](Tasks/TailwindCSS/Task1)
+- [ ] [task 2](Tasks/TailwindCSS/Task2)
+- [ ] [task 3](Tasks/TailwindCSS/Task3)
+- [ ] [task 4](Tasks/TailwindCSS/Task4)
+- [ ] [task 5](Tasks/TailwindCSS/Task5)
