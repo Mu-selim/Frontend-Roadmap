@@ -1,4 +1,5 @@
 <h1 align="center"><b>Frontend Roadmap</b></h1>
+<img align="center" src="https://ciccc.ca/wp-content/themes/jupiter-child/pics/how-to-become-front-end-developer-01.svg">
 <p align="center">
     Welcome to the Frontend Roadmap! This roadmap is designed to help you navigate the ever-evolving world of frontend development and understand the key technologies, tools, and concepts that are essential for success in this field. Whether you're a beginner just starting out or an experienced developer looking to expand your skills, this roadmap will provide you with a clear understanding of what you need to know and what you need to learn in order to build high-quality, dynamic, and user-friendly websites and applications. This roadmap is not meant to be an exhaustive list, but rather a comprehensive guide that covers the core aspects of frontend development and provides you with a clear direction for your learning journey.
 </p>
