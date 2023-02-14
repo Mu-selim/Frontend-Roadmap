@@ -126,7 +126,7 @@ Some of the benefits of Tailwind over Bootstrap include:
 - **Mobile-first approach**: Tailwind is built with a mobile-first approach, which means that the default styles are optimized for small screens, making it easier to create responsive designs.
 - **No pre-existing design language**: Tailwind doesn't come with pre-built components or a specific design language, which can allow for more creative freedom and better fit with the branding or design language of the project.
 
-| Resource | Effort | Done |
+| Resources | Effort | Done |
 | -------- | ------ | ---- |
 | [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook) | 100 seconds | |
 | [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours | |
@@ -139,3 +139,14 @@ Some of the benefits of Tailwind over Bootstrap include:
 - [ ] [task 3](Tasks/TailwindCSS/Task3)
 - [ ] [task 4](Tasks/TailwindCSS/Task4)
 - [ ] [task 5](Tasks/TailwindCSS/Task5)
+
+<h4><b>Bootstrap [Optional]</b></h4>
+
+Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
+
+| Resources | Effort | Done |
+| --------- | ------ | ---- |
+| [FreeCodeCamp - Bootstrap CSS Framework](https://youtu.be/-qfEOE4vtxE) | 3 hours | |
+| [Arabic - Bootstrap 5](https://youtu.be/65EFKUpYk2A) | 2 hours | |
+
+#### **Task list**: the same as in tailwind.
