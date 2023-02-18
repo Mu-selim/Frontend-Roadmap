@@ -232,9 +232,9 @@ Advanced JavaScript is a section that will teach you the advanced concepts of Ja
 - <a href="#reactprojects">Practice</a>
 - <a href="#mui">Material UI</a>
 - <a href="#sass">Sass</a>
-- <a href="framermotion">Framer Motion</a>
-- <a href="reduxtoolkit">Redux Toolkit</a>
-- <a href="formik">Formik</a>
+- <a href="#framermotion">Framer Motion</a>
+- <a href="#reduxtoolkit">Redux Toolkit</a>
+- <a href="#formik">Formik</a>
 
 <h3 id="react"><b>React JS</b></h3>
 <h3 id="reactrouter"><b>React Router</b></h3>
