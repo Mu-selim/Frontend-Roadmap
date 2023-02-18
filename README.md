@@ -11,7 +11,8 @@
 - <a href="#introduction">Intro</a>
 - <a href="#core">Core Concepts</a>
 - <a href="#intermediate">Intermediate</a>
-- <a href="#">Advanced</a>
+- <a href="#advanced">Advanced</a>
+- <a href="#extra">Extra</a>
 
 <h2 id="timeline"><b>Timeline</b></h2>
 
@@ -19,8 +20,9 @@
 | ----- | ------ |
 | Intro | 2.5 hours |
 | Core | 60 hours |
-| Intermediate | --- |
+| Intermediate | 130 hours |
 | Advanced | --- |
+| Extra | --- |
 
 <br>
 
@@ -180,7 +182,8 @@ JavaScript is a programming language that adds interactivity to your website. Th
 
 | Resources | Effort | Done |
 | --------- | ------ | ---- |
-| [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) | 3.5 hours | |
+| [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours | |
+| [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional] | 10 hours | |
 
 <h3 id="jsPractice"><b>Practice on JavaScript</b></h3>
 
@@ -199,3 +202,11 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | |
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | |
 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)| |
+
+
+<h3 id="jsAdvanced"><b>Advanced JavaScript</b></h3>
+
+Advanced JavaScript is a section that will teach you the advanced concepts of JavaScript. It will teach you how to use JavaScript to build a web application. It will also cover ES6+ features, DOM manipulation, BOM, and more.
+
+| Resources | Effort | Done |
+| --------- | ------ | ---- |
