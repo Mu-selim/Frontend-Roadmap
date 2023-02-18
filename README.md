@@ -10,7 +10,7 @@
 - <a href="#goodToKnow">Good To Know</a>
 - <a href="#introduction">Intro</a>
 - <a href="#core">Core Concepts</a>
-- <a href="#">Intermediate</a>
+- <a href="#intermediate">Intermediate</a>
 - <a href="#">Advanced</a>
 
 <h2 id="timeline"><b>Timeline</b></h2>
@@ -22,6 +22,7 @@
 | Intermediate | --- |
 | Advanced | --- |
 
+<br>
 
 <h2 id="goodToKnow"><b>Good To Know</b></h2>
 
@@ -40,6 +41,7 @@ Here is some resources to learn these topics:
 - [Adel Nasim - Data Structures Full Course](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) (playlist - Arabic).
 - [Omar Ahmed - OOP - بالعربي](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) (playlist - Arabic).
 
+<br>
 
 <h2 id="introduction"><b>Intro</b></h2>
 
@@ -54,6 +56,7 @@ This section introduces fundamental topics in web development, including Interne
 | Hosting | 30 minutes | [What Is Web Hosting?](https://youtu.be/htbY9-yggB0), [Different Types of Web Hosting](https://youtu.be/AXVZYzw8geg) | |
 | Frontend vs Backend | 10 minutes | [Frontend web development](https://youtu.be/WG5ikvJ2TKA) | |
 
+<br>
 
 <h2 id="core"><b>Core</b></h2>
 
@@ -82,7 +85,7 @@ By the end of the course, you will be able to:
 | [Meta - Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer) | 10 hours | |
 
 
-<h4 id="HTML5"><b>HTML5</b></h4>
+<h3 id="HTML5"><b>HTML5</b></h3>
 
 HTML5 is the latest version of the HTML standard, which is the markup language used to create web pages. It is a markup language that defines the structure of a web page. HTML5 is the latest version of the HTML standard, which is the markup language used to create web pages. It is a markup language that defines the structure of a web page.
 
@@ -98,7 +101,7 @@ HTML5 is the latest version of the HTML standard, which is the markup language u
 - [ ] [task 4](Tasks/HTML5/Task4.md)
 
 
-<h4 id="CSS3"><b>CSS3</b></h4>
+<h3 id="CSS3"><b>CSS3</b></h3>
 
 CSS3 is the latest version of the CSS standard, which is the language used to style web pages. It is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.
 
@@ -116,7 +119,7 @@ CSS3 is the latest version of the CSS standard, which is the language used to st
 - [ ] [task 6](Tasks/CSS3/Task6)
 
 
-<h4 id="tailwindcss"><b>Tailwind CSS</b></h4>
+<h3 id="tailwindcss"><b>Tailwind CSS</b></h3>
 
 Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
@@ -141,7 +144,7 @@ Some of the benefits of Tailwind over Bootstrap include:
 - [ ] [task 4](Tasks/TailwindCSS/Task4)
 - [ ] [task 5](Tasks/TailwindCSS/Task5)
 
-<h4><b>Bootstrap [Optional]</b></h4>
+<h3><b>Bootstrap [Optional]</b></h3>
 
 Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
@@ -153,7 +156,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 #### **Task list**: the same as in tailwind.
 <br>
 
-<h4 id="versionControl"><b>Version Control</b></h4>
+<h3 id="versionControl"><b>Version Control</b></h3>
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the purpose of this section, we will be using Git and GitHub.
 
@@ -163,3 +166,36 @@ Version control is a system that records changes to a file or set of files over 
 | [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours | |
 
 <br>
+
+<h2 id="intermediate"><b>Intermediate</b></h2>
+
+- <a href="#jsSyntax">JavaScript Syntax</a>
+- <a href="#jsPractice">Practice on JavaScript</a>
+- <a href="#jsAdvanced">Advanced JavaScript</a>
+- <a href="#jsProjects">Projects</a>
+
+<h3 id="jsSyntax"><b>JavaScript Syntax</b></h3>
+
+JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This section will teach you the basics of JavaScript.
+
+| Resources | Effort | Done |
+| --------- | ------ | ---- |
+| [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) | 3.5 hours | |
+
+<h3 id="jsPractice"><b>Practice on JavaScript</b></h3>
+
+Practice, practice, and practice. You can't learn JavaScript without practicing it. Here we will solve several problems in leetcode to practice our JavaScript skills.
+
+| Problem | Solution |
+| ------- | -------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | |
+| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | |
+| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | |
+| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | |
+| [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)| |
