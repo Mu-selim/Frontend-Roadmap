@@ -213,3 +213,29 @@ Advanced JavaScript is a section that will teach you the advanced concepts of Ja
 
 | Resources | Effort | Done |
 | --------- | ------ | ---- |
+
+<hr>
+
+<h1 id="advanced"><b>Advanced</b></h1>
+
+<h2><b>Objectives:</b></h2>
+
+<p>This section introduces the core concepts of React development, including React basics, state management with Redux Toolkit, component lifecycle, and the use of Framer Motion for animation. Additionally, it covers Material UI for building elegant and responsive user interfaces, Formik for form management, Sass for styling, and practical projects for hands-on learning. Relevant resources are provided to aid in learning.</p>
+
+- <a href="#react">React JS</a>
+- <a href="#reactrouter">React Router</a>
+- <a href="#reactprojects">Practice</a>
+- <a href="#mui">Material UI</a>
+- <a href="#sass">Sass</a>
+- <a href="framermotion">Framer Motion</a>
+- <a href="reduxtoolkit">Redux Toolkit</a>
+- <a href="formik">Formik</a>
+
+<h3 id="react"><b>React JS</b></h3>
+<h3 id="reactrouter"><b>React Router</b></h3>
+<h3 id="reactprojects"><b>15 Projects with React JS</b></h3>
+<h3 id="mui"><b>Material UI</b></h3>
+<h3 id="sass"><b>Sass</b></h3>
+<h3 id="framermotion"><b>Framer Motion</b></h3>
+<h3 id="reduxtoolkit"><b>Redux Toolkit</b></h3>
+<h3 id="formik"><b>Formik</b></h3>
