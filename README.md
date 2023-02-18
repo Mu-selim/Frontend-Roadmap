@@ -171,6 +171,9 @@ Version control is a system that records changes to a file or set of files over 
 
 <h2 id="intermediate"><b>Intermediate</b></h2>
 
+***Objectives:***
+This section will teach you the following:
+
 - <a href="#jsSyntax">JavaScript Syntax</a>
 - <a href="#jsPractice">Practice on JavaScript</a>
 - <a href="#jsAdvanced">Advanced JavaScript</a>
