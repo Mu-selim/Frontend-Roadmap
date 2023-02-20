@@ -273,3 +273,42 @@ Advanced JavaScript is a section that will teach you the advanced concepts of Ja
 <h3 id="formik"><b>Formik</b></h3>
 
 <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu">React Formik Tutorial</a>
+
+<hr>
+
+<h1 id="extra"><b>Extra</b></h1>
+
+<h2><b>Objectives:</b></h2>
+
+<p>This section introduces the core concepts of React development with TypeScript, and testing with React Testing Library. Additionally, it covers Next.js for server-side rendering and routing, Firebase for backend services and authentication, Relevant resources are provided to aid in learning.</p>
+
+<h2><b>Navigate throuth these links:</b></h2>
+
+- <a href="#typescript">TypeScript</a>
+- <a href="#nextjs">Next JS</a>
+- <a href="#firebase">Firebase</a>
+- <a href="#testing">Testing</a>
+
+<h3 id="typescript"><b>TypeScript</b></h3>
+
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">Learn TypeScript 2022 [Arabic]</a>
+
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">TypeScript Tutorial</a>
+
+<a href="https://www.youtube.com/watch?v=gieEQFIfgYc&feature=youtu.be">TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours</a>
+
+<h3 id="nextjs"><b>Next JS</b></h3>
+
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH">Next.js Tutorial for Beginners</a>
+
+<a href="https://www.youtube.com/watch?v=tsmaQdgidKg">NextJS Course For Beginners - Routes, Fetching, SSR, SSG...</a>
+
+<h3 id="firebse"><b>Firebase</b></h3>
+
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb">Firebase 9 Tutorial</a>
+
+<a href="https://www.youtube.com/watch?v=2hR-uWjBAgw">Firebase React Course For Beginners - Learn Firebase V9+ in 2 Hours</a>
+
+<h3 id="testing"><b>Testing</b></h3>
+
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd">React Testing Tutorial</a>
