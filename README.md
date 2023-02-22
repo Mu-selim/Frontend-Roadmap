@@ -238,43 +238,41 @@ Advanced JavaScript is a section that will teach you the advanced concepts of Ja
 
 <h3 id="react"><b>React JS</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">Full Modern React Tutorial</a>
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">Full Modern React Tutorial</a> | 3 Hours
 
-<a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a>
+<a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a> | 12 Hours
 
 <h3 id="reactrouter"><b>React Router V.6</b></h3>
 
-<a href="https://www.youtube.com/watch?v=59IXY5IDrBA">React Router 6 – Tutorial for Beginners</a>
+<a href="https://www.youtube.com/watch?v=59IXY5IDrBA">React Router 6 – Tutorial for Beginners</a> | 2 Hours
 
-<a href="https://youtu.be/Ul3y1LXxzdU">Learn React Router v6 In 45 Minutes</a>
+<a href="https://youtu.be/Ul3y1LXxzdU">Learn React Router v6 In 45 Minutes</a> | 45 Minutes
 
 <h3 id="reactprojects"><b>15 Projects with React JS</b></h3>
 
-<a href="https://youtu.be/a_7Z7C_JCyo">Code 15 React Projects - Complete Course</a>
+<a href="https://youtu.be/a_7Z7C_JCyo">Code 15 React Projects - Complete Course</a> | 9 Hours
 
 <h3 id="mui"><b>Material UI</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO">React Material UI Tutorial</a>
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO">React Material UI Tutorial</a> | 6 Hours
 
 <h3 id="sass"><b>Sass</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb">SASS Tutorial (Build Your Own CSS Library)</a>
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb">SASS Tutorial (Build Your Own CSS Library)</a> | 3 Hours
 
 <h3 id="framermotion"><b>Framer Motion</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i">Framer Motion (for React) Tutorial</a>
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i">Framer Motion (for React) Tutorial</a> | 2 Hours
 
-<a href="https://www.youtube.com/playlist?list=PL3pZ0ZEStTyQLdpOMZck7lwKd6ZPzjadJ">Learn Framer Motion with React in Arabic 2023</a>
+<a href="https://www.youtube.com/playlist?list=PL3pZ0ZEStTyQLdpOMZck7lwKd6ZPzjadJ">Learn Framer Motion with React in Arabic 2023</a> | 1 Hour
 
 <h3 id="reduxtoolkit"><b>Redux Toolkit</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3">Redux Toolkit Tutorial</a>
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3">Redux Toolkit Tutorial</a> | 4 Hours
 
 <h3 id="formik"><b>Formik</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu">React Formik Tutorial</a>
-
-<hr>
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu">React Formik Tutorial</a> | 5 Hours
 
 <h1 id="extra"><b>Extra</b></h1>
 
