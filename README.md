@@ -176,9 +176,9 @@ Version control is a system that records changes to a file or set of files over 
 This section will teach you the following:
 
 - <a href="#jsSyntax">JavaScript Syntax</a>
-- <a href="#jsPractice">Practice on JavaScript</a>
-- <a href="#jsAdvanced">Advanced JavaScript</a>
-- <a href="#jsProjects">Projects</a>
+- <a href="#jsPractice">Practice on JavaScript Syntax</a>
+- <a href="#jsProjects">Build Projects</a>
+- <a href="#jsAdvanced">Advanced JS Concepts</a>
 
 <h3 id="jsSyntax"><b>JavaScript Syntax</b></h3>
 
@@ -207,14 +207,11 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                             |          |
 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) |          |
 
+<h3 id="jsProjects"><b>Projects</b></h3>
+
 <h3 id="jsAdvanced"><b>Advanced JavaScript</b></h3>
 
-Advanced JavaScript is a section that will teach you the advanced concepts of JavaScript. It will teach you how to use JavaScript to build a web application. It will also cover ES6+ features, DOM manipulation, BOM, and more.
-
-| Resources | Effort | Done |
-| --------- | ------ | ---- |
-
-<hr>
+<a href="https://youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd">Advanced Javascript Concepts</a> | 5 Hours
 
 <h1 id="advanced"><b>Advanced</b></h1>
 
