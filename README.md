@@ -289,24 +289,24 @@ Advanced JavaScript is a section that will teach you the advanced concepts of Ja
 
 <h3 id="typescript"><b>TypeScript</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">Learn TypeScript 2022 [Arabic]</a>
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">Learn TypeScript 2022 [Arabic]</a> | 4 Hours
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">TypeScript Tutorial</a>
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">TypeScript Tutorial</a> | 3 Hours
 
-<a href="https://www.youtube.com/watch?v=gieEQFIfgYc&feature=youtu.be">TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours</a>
+<a href="https://www.youtube.com/watch?v=gieEQFIfgYc&feature=youtu.be">TypeScript Full Course for Beginners | Complete All-in-One Tutorial</a> | 8 Hours
 
 <h3 id="nextjs"><b>Next JS</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH">Next.js Tutorial for Beginners</a>
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH">Next.js Tutorial for Beginners</a> | 9 Hours
 
-<a href="https://www.youtube.com/watch?v=tsmaQdgidKg">NextJS Course For Beginners - Routes, Fetching, SSR, SSG...</a>
+<a href="https://www.youtube.com/watch?v=tsmaQdgidKg">NextJS Course For Beginners - Routes, Fetching, SSR, SSG...</a> | 1 Hour
 
 <h3 id="firebse"><b>Firebase</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb">Firebase 9 Tutorial</a>
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb">Firebase 9 Tutorial</a> | 2 Hours
 
-<a href="https://www.youtube.com/watch?v=2hR-uWjBAgw">Firebase React Course For Beginners - Learn Firebase V9+ in 2 Hours</a>
+<a href="https://www.youtube.com/watch?v=2hR-uWjBAgw">Firebase React Course For Beginners - Learn Firebase V9+ in 2 Hours</a> | 2 Hours
 
 <h3 id="testing"><b>Testing</b></h3>
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd">React Testing Tutorial</a>
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd">React Testing Tutorial</a> | 5 Hours
