@@ -1,10 +1,10 @@
-<h1 align="center"><b>Front-End Roadmap</b></h1>
+<h1 align="center"><b>FRONT-END ROADMAP</b></h1>
 <img align="center" src="https://ciccc.ca/wp-content/themes/jupiter-child/pics/how-to-become-front-end-developer-01.svg">
 <p align="center">
-    Welcome to the Frontend Roadmap! This roadmap is designed to help you navigate the ever-evolving world of frontend development and understand the key technologies, tools, and concepts that are essential for success in this field. Whether you're a beginner just starting out or an experienced developer looking to expand your skills, this roadmap will provide you with a clear understanding of what you need to know and what you need to learn in order to build high-quality, dynamic, and user-friendly websites and applications. This roadmap is not meant to be an exhaustive list, but rather a comprehensive guide that covers the core aspects of frontend development and provides you with a clear direction for your learning journey.
+Are you looking to navigate the ever-evolving world of frontend development? Whether you're a beginner or an experienced developer, understanding the key technologies, tools, and concepts that are essential for success is crucial. This comprehensive roadmap provides you with a clear direction for your learning journey and covers the core aspects of frontend development.
 </p>
 
-<h1><b>Contents</b></h1>
+<h1><b>CONTENTS</b></h1>
 
 - <a href="#timeline">Timeline</a>
 - <a href="#goodToKnow">Good To Know</a>
@@ -18,38 +18,30 @@
 
 | Phase        | Effort    |
 | ------------ | --------- |
-| Intro        | 2.5 hours |
-| Core         | 60 hours  |
-| Intermediate | 130 hours |
-| Advanced     | ---       |
-| Extra        | ---       |
-
-<br>
+| Intro        | 3 Hours   |
+| Core         | 60 Hours  |
+| Intermediate | 130 Hours |
+| Advanced     | 48 Hours  |
+| Extra        | 34 Hours  |
 
 <h2 id="goodToKnow"><b>Good To Know</b></h2>
 
-This roadmap assumes you have already studied the following topics:
+This roadmap assumes that You have already studied the following topics:
 
 - At least **one** programming language, such as **JavaScript**, **C++**, or **Java**, and a basic understanding of the concepts of programming, such as variables, loops, and functions.
 - Fundamental of **Algorithms** and **Data Structures**, such as Big O Notation, Arrays, Linked Lists, Stacks, Queues, Sorting, and Searching.
 - Understanding of **Object-Oriented Programming** (OOP) concepts, such as classes, inheritance, and polymorphism.
 
-Here is some resources to learn these topics:
+Here are some resources to learn these topics:
 
-- [FreeCodeCamp - Introduction to Programming and Computer Science](https://youtu.be/zOjov-2OZ0E) (video - English).
-- [FreeCodeCamp - C++ Tutorial for Beginners](https://youtu.be/vLnPwxZdW4Y) (video - English).
-- [Elzero Web School - Fundamentals Of Programming With C++](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) (still recording - Arabic).
-- [FreeCodeCamp - Algorithms and Data Structures](https://youtu.be/8hly31xKli0) (video - English).
-- [Adel Nasim - Data Structures Full Course](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) (playlist - Arabic).
-- [Omar Ahmed - OOP - بالعربي](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) (playlist - Arabic).
-
-<br>
+- [FreeCodeCamp - Introduction to Programming and Computer Science](https://youtu.be/zOjov-2OZ0E) | English
+- [FreeCodeCamp - C++ Tutorial for Beginners](https://youtu.be/vLnPwxZdW4Y) | English
+- [Elzero Web School - Fundamentals Of Programming With C++](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | Arabic
+- [FreeCodeCamp - Algorithms and Data Structures](https://youtu.be/8hly31xKli0) | English
+- [Adel Nasim - Data Structures Full Course](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) | Arabic
+- [Omar Ahmed - OOP - بالعربي](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) | Arabic
 
 <h2 id="introduction"><b>Intro</b></h2>
-
-**_Objectives:_**
-
-This section introduces fundamental topics in web development, including Internet, Browsers, Hosting, and Frontend vs Backend, necessary to understand how the internet works. Relevant resources are provided to aid in learning.
 
 | Topic               | Effort     | Resources                                                                                                                             | Done |
 | ------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---- |
@@ -58,13 +50,7 @@ This section introduces fundamental topics in web development, including Interne
 | Hosting             | 30 minutes | [What Is Web Hosting?](https://youtu.be/htbY9-yggB0), [Different Types of Web Hosting](https://youtu.be/AXVZYzw8geg)                  |      |
 | Frontend vs Backend | 10 minutes | [Frontend web development](https://youtu.be/WG5ikvJ2TKA)                                                                              |      |
 
-<br>
-
 <h2 id="core"><b>Core</b></h2>
-
-**_Objectives:_**
-
-This section introduces the core concepts of frontend development, including HTML5, CSS3, Responsive design using TailwindCSS or Bootstrap, and version control. Relevant resources are provided to aid in learning.
 
 - <a href="#IntroductiontoFrontEndDevelopment">Introduction to Front-End Development</a>
 - <a href="#HTML5">HTML5</a>
@@ -73,8 +59,6 @@ This section introduces the core concepts of frontend development, including HTM
 - <a href="#versionControl">Version Control</a>
 
 <h3 id="IntroductiontoFrontEndDevelopment"><b>Introduction</b></h3>
-
-You’ll be introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences.
 
 By the end of the course, you will be able to:
 
@@ -89,8 +73,6 @@ By the end of the course, you will be able to:
 
 <h3 id="HTML5"><b>HTML5</b></h3>
 
-HTML5 is the latest version of the HTML standard, which is the markup language used to create web pages. It is a markup language that defines the structure of a web page. HTML5 is the latest version of the HTML standard, which is the markup language used to create web pages. It is a markup language that defines the structure of a web page.
-
 | Resource                                                       | Effort    | Done |
 | -------------------------------------------------------------- | --------- | ---- |
 | [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours |      |
@@ -103,8 +85,6 @@ HTML5 is the latest version of the HTML standard, which is the markup language u
 - [ ] [task 4](Tasks/HTML5/Task4.md)
 
 <h3 id="CSS3"><b>CSS3</b></h3>
-
-CSS3 is the latest version of the CSS standard, which is the language used to style web pages. It is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.
 
 | Resource                                                      | Effort   | Done |
 | ------------------------------------------------------------- | -------- | ---- |
@@ -121,16 +101,12 @@ CSS3 is the latest version of the CSS standard, which is the language used to st
 
 <h3 id="tailwindcss"><b>Tailwind CSS</b></h3>
 
-Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
-
 #### 🤔 **_Why Tailwind CSS over Bootstrap?_**
 
-Some of the benefits of Tailwind over Bootstrap include:
-
-- **Highly customizable**: Tailwind provides a vast collection of small, composable utility classes that you can combine to create unique and custom styles, making it more flexible and adaptable than Bootstrap.
-- **Smaller file sizes**: Unlike Bootstrap, which includes a lot of pre-defined CSS code, Tailwind only includes the styles that you use, which can lead to smaller file sizes and faster load times.
-- **Mobile-first approach**: Tailwind is built with a mobile-first approach, which means that the default styles are optimized for small screens, making it easier to create responsive designs.
-- **No pre-existing design language**: Tailwind doesn't come with pre-built components or a specific design language, which can allow for more creative freedom and better fit with the branding or design language of the project.
+- **Highly customizable**
+- **Smaller file sizes**
+- **Mobile-first approach**
+- **No pre-existing design language**
 
 | Resources                                                                                                     | Effort      | Done |
 | ------------------------------------------------------------------------------------------------------------- | ----------- | ---- |
@@ -148,8 +124,6 @@ Some of the benefits of Tailwind over Bootstrap include:
 
 <h3><b>Bootstrap [Optional]</b></h3>
 
-Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
-
 | Resources                                                              | Effort  | Done |
 | ---------------------------------------------------------------------- | ------- | ---- |
 | [FreeCodeCamp - Bootstrap CSS Framework](https://youtu.be/-qfEOE4vtxE) | 3 hours |      |
@@ -157,23 +131,14 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 #### **Task list**: the same as in tailwind.
 
-<br>
-
 <h3 id="versionControl"><b>Version Control</b></h3>
-
-Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the purpose of this section, we will be using Git and GitHub.
 
 | Resources                                                                                | Effort   | Done |
 | ---------------------------------------------------------------------------------------- | -------- | ---- |
 | [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc)                                | 6 hours  |      |
 | [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours |      |
 
-<br>
-
 <h2 id="intermediate"><b>Intermediate</b></h2>
-
-**_Objectives:_**
-This section will teach you the following:
 
 - <a href="#jsSyntax">JavaScript Syntax</a>
 - <a href="#jsPractice">Practice on JavaScript Syntax</a>
@@ -181,8 +146,6 @@ This section will teach you the following:
 - <a href="#jsAdvanced">Advanced JS Concepts</a>
 
 <h3 id="jsSyntax"><b>JavaScript Syntax</b></h3>
-
-JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This section will teach you the basics of JavaScript.
 
 | Resources                                                                                        | Effort   | Done |
 | ------------------------------------------------------------------------------------------------ | -------- | ---- |
@@ -209,15 +172,17 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 
 <h3 id="jsProjects"><b>Projects</b></h3>
 
+<a href="https://youtu.be/3PHXvlpOkf4">Build 15 JavaScript Projects - Vanilla JavaScript Course</a> | 9 Hours
+
+<a href="https://www.youtube.com/playlist?list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3">JavaScript Projetcts</a> | 38 Hours
+
+<a href="https://www.youtube.com/playlist?list=PLpwngcHZlPafPXPPPVTsOugzKfIJjB7Qm">JavaScript API Projects</a> | 5 Hours
+
 <h3 id="jsAdvanced"><b>Advanced JavaScript</b></h3>
 
 <a href="https://youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd">Advanced Javascript Concepts</a> | 5 Hours
 
 <h1 id="advanced"><b>Advanced</b></h1>
-
-<h2><b>Objectives:</b></h2>
-
-<p>This section introduces the core concepts of React development, including React basics, state management with Redux Toolkit, component lifecycle, and the use of Framer Motion for animation. Additionally, it covers Material UI for building elegant and responsive user interfaces, Formik for form management, Sass for styling, and practical projects for hands-on learning. Relevant resources are provided to aid in learning.</p>
 
 <h2><b>Why React JS ?</b></h2>
 <p>React is a popular choice for building user interfaces because of its declarative approach, component-based architecture, large and active community, flexibility, and performance.</p>
@@ -272,10 +237,6 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu">React Formik Tutorial</a> | 5 Hours
 
 <h1 id="extra"><b>Extra</b></h1>
-
-<h2><b>Objectives:</b></h2>
-
-<p>This section introduces the core concepts of React development with TypeScript, and testing with React Testing Library. Additionally, it covers Next.js for server-side rendering and routing, Firebase for backend services and authentication, Relevant resources are provided to aid in learning.</p>
 
 <h2><b>Navigate throuth these links:</b></h2>
 
