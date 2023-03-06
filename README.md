@@ -172,9 +172,7 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 
 <h3 id="jsProjects"><b>Projects</b></h3>
 
-<a href="https://youtu.be/3PHXvlpOkf4">Build 15 JavaScript Projects - Vanilla JavaScript Course</a> | 9 Hours
-
-<a href="https://www.youtube.com/playlist?list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3">JavaScript Projetcts</a> | 38 Hours
+<a href="https://javascript30.com/">30 Day Vanilla JS Coding Challenge</a> | 30 Days
 
 <a href="https://www.youtube.com/playlist?list=PLpwngcHZlPafPXPPPVTsOugzKfIJjB7Qm">JavaScript API Projects</a> | 5 Hours
 
