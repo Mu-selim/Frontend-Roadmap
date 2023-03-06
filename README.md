@@ -16,13 +16,13 @@ Are you looking to navigate the ever-evolving world of frontend development? Whe
 
 <h2 id="timeline"><b>Timeline</b></h2>
 
-| Phase        | Effort    |
-| ------------ | --------- |
-| Intro        | 3 Hours   |
-| Core         | 60 Hours  |
-| Intermediate | 130 Hours |
-| Advanced     | 48 Hours  |
-| Extra        | 34 Hours  |
+| Phase        | Effort   |
+| ------------ | -------- |
+| Intro        | 3 Hours  |
+| Core         | 60 Hours |
+| Intermediate | 30 Hours |
+| Advanced     | 48 Hours |
+| Extra        | 34 Hours |
 
 <h2 id="goodToKnow"><b>Good To Know</b></h2>
 
@@ -77,42 +77,40 @@ By the end of the course, you will be able to:
 | -------------------------------------------------------------- | --------- | ---- |
 | [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours |      |
 
-<h4><b>Task list</b></h4>
-
-- [ ] [task 1](Tasks/HTML5/Task1.md)
-- [ ] [task 2](Tasks/HTML5/Task2.md)
-- [ ] [task 3](Tasks/HTML5/Task3.md)
-- [ ] [task 4](Tasks/HTML5/Task4.md)
-
 <h3 id="CSS3"><b>CSS3</b></h3>
 
 | Resource                                                      | Effort   | Done |
 | ------------------------------------------------------------- | -------- | ---- |
 | [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 12 hours |      |
 
-<h4><b>Task list</b></h4>
+<h3 id="templates"><b>Now It's Time 
+To Practise</b></h3>
 
-- [ ] [task 1](Tasks/CSS3/Task1)
-- [ ] [task 2](Tasks/CSS3/Task2)
-- [ ] [task 3](Tasks/CSS3/Task3)
-- [ ] [task 4](Tasks/CSS3/Task4)
-- [ ] [task 5](Tasks/CSS3/Task5)
-- [ ] [task 6](Tasks/CSS3/Task6)
+<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF">HTML And CSS Template 1</a> | 2 Hours
+
+<hr/>
+<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t">HTML And CSS Template 2</a> | 4 Hours
+<hr/>
+<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc">HTML And CSS Template 3</a> | 5 Hours
+<hr/>
+<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh">HTML And CSS Template 4</a> | 7 Hours
+
+<br/>
 
 <h3 id="tailwindcss"><b>Tailwind CSS</b></h3>
 
-#### 🤔 **_Why Tailwind CSS over Bootstrap?_**
+#### **_Why Tailwind CSS over Bootstrap?_**
 
 - **Highly customizable**
 - **Smaller file sizes**
 - **Mobile-first approach**
 - **No pre-existing design language**
 
-| Resources                                                                                                     | Effort      | Done |
-| ------------------------------------------------------------------------------------------------------------- | ----------- | ---- |
-| [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook)                                            | 100 seconds |      |
-| [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours     |      |
-| [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) [Optional]                                                         | 2 hours     |      |
+| Resources                                                                                                     | Effort      |
+| ------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook)                                            | 100 seconds |
+| [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours     |
+| [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) [Optional]                                              | 2 hours     |
 
 <h4><b>Task list</b></h4>
 
@@ -124,19 +122,21 @@ By the end of the course, you will be able to:
 
 <h3><b>Bootstrap [Optional]</b></h3>
 
-| Resources                                                              | Effort  | Done |
-| ---------------------------------------------------------------------- | ------- | ---- |
-| [FreeCodeCamp - Bootstrap CSS Framework](https://youtu.be/-qfEOE4vtxE) | 3 hours |      |
-| [Arabic - Bootstrap 5](https://youtu.be/65EFKUpYk2A)                   | 2 hours |      |
+| Resources                                                              | Effort  |
+| ---------------------------------------------------------------------- | ------- |
+| [FreeCodeCamp - Bootstrap CSS Framework](https://youtu.be/-qfEOE4vtxE) | 3 hours |
+| [Arabic - Bootstrap 5](https://youtu.be/65EFKUpYk2A)                   | 2 hours |
 
 #### **Task list**: the same as in tailwind.
 
+<br/>
+
 <h3 id="versionControl"><b>Version Control</b></h3>
 
-| Resources                                                                                | Effort   | Done |
-| ---------------------------------------------------------------------------------------- | -------- | ---- |
-| [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc)                                | 6 hours  |      |
-| [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours |      |
+| Resources                                                                                | Effort   |
+| ---------------------------------------------------------------------------------------- | -------- |
+| [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc)                                | 6 hours  |
+| [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours |
 
 <h2 id="intermediate"><b>Intermediate</b></h2>
 
@@ -147,10 +147,10 @@ By the end of the course, you will be able to:
 
 <h3 id="jsSyntax"><b>JavaScript Syntax</b></h3>
 
-| Resources                                                                                        | Effort   | Done |
-| ------------------------------------------------------------------------------------------------ | -------- | ---- |
-| [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours |      |
-| [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional]                       | 10 hours |      |
+| Resources                                                                                        | Effort   |
+| ------------------------------------------------------------------------------------------------ | -------- |
+| [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours |
+| [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional]                       | 10 hours |
 
 <h3 id="jsPractice"><b>Practice on JavaScript</b></h3>
 
