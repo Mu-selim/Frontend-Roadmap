@@ -43,12 +43,12 @@ Here are some resources to learn these topics:
 
 <h2 id="introduction"><b>Intro</b></h2>
 
-| Topic               | Effort     | Resources                                                                                                                             | Done |
-| ------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| Internet            | 30 minutes | [How the Internet Works](https://youtu.be/e4S8zfLdLgQ), [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet) |      |
-| Browsers            | 1 hour     | [How browsers work](https://web.dev/howbrowserswork/), [How Do Web Browsers Work?](https://youtu.be/WjDrMKZWCt0)                      |      |
-| Hosting             | 30 minutes | [What Is Web Hosting?](https://youtu.be/htbY9-yggB0), [Different Types of Web Hosting](https://youtu.be/AXVZYzw8geg)                  |      |
-| Frontend vs Backend | 10 minutes | [Frontend web development](https://youtu.be/WG5ikvJ2TKA)                                                                              |      |
+| Topic               | Effort     | Resources                                                                                                                             |
+| ------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Internet            | 30 minutes | [How the Internet Works](https://youtu.be/e4S8zfLdLgQ), [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet) |
+| Browsers            | 1 hour     | [How browsers work](https://web.dev/howbrowserswork/), [How Do Web Browsers Work?](https://youtu.be/WjDrMKZWCt0)                      |
+| Hosting             | 30 minutes | [What Is Web Hosting?](https://youtu.be/htbY9-yggB0), [Different Types of Web Hosting](https://youtu.be/AXVZYzw8geg)                  |
+| Frontend vs Backend | 10 minutes | [Frontend web development](https://youtu.be/WG5ikvJ2TKA)                                                                              |
 
 <h2 id="core"><b>Core</b></h2>
 
@@ -67,21 +67,21 @@ By the end of the course, you will be able to:
 - Use HTML to create a simple webpage.
 - Use CSS to control the appearance of a simple webpage.
 
-| Resource                                                                                                                                                     | Effort   | Done |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- |
-| [Meta - Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer) | 10 hours |      |
+| Resource                                                                                                                                                     | Effort   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Meta - Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer) | 10 hours |
 
 <h3 id="HTML5"><b>HTML5</b></h3>
 
-| Resource                                                       | Effort    | Done |
-| -------------------------------------------------------------- | --------- | ---- |
-| [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours |      |
+| Resource                                                       | Effort    |
+| -------------------------------------------------------------- | --------- |
+| [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours |
 
 <h3 id="CSS3"><b>CSS3</b></h3>
 
-| Resource                                                      | Effort   | Done |
-| ------------------------------------------------------------- | -------- | ---- |
-| [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 12 hours |      |
+| Resource                                                      | Effort   |
+| ------------------------------------------------------------- | -------- |
+| [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 12 hours |
 
 <h3 id="templates"><b>Now It's Time 
 To Practise</b></h3>
