@@ -112,7 +112,7 @@ By the end of the course, you will be able to:
 | ------------------------------------------------------------------------------------------------------------- | ----------- | ---- |
 | [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook)                                            | 100 seconds |      |
 | [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours     |      |
-| [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk)                                                         | 2 hours     |      |
+| [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) [Optional]                                                         | 2 hours     |      |
 
 <h4><b>Task list</b></h4>
 
