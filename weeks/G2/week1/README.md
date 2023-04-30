@@ -6,7 +6,8 @@
 
 | Resources | Effort |
 | --------- | ------ |
-| [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours |
+| [Learn Git and Github](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) | --- |
+| [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) `[if financial ads is accepted]` | 13 hours |
 
 ### ***Tailwind CSS***
 
