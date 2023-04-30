@@ -14,7 +14,7 @@ this directory is used to store the weekly material of IEEE Student Chapter.
 
 ## **How to access Coursera courses for free**
 
-1. Go to [Coursera](https://www.coursera.org/) website. 
+1. Go to [Coursera](https://www.coursera.org/) website.
 2. Choose the course you want to enroll in.
 3. Click on `Enroll for free` button.
 4. Click on `Audit the course` button.
