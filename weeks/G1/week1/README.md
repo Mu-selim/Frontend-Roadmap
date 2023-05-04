@@ -16,4 +16,5 @@
 | Resources | Effort |
 | --------- | ------ |
 | [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours |
+| [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc)                                | 6 hours  |
 | [Learn Git and Github](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) `[Optional]` | --- |
