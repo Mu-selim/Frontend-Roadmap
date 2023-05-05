@@ -1,26 +1,11 @@
-# **Week1**
+# **Week2**
 
-## **week content:**
+this week we will practice more on tailwindcss, and here is the templates ,`tasks`, for this week:
 
-### ***Version Control (VC)***
-
-| Resources | Effort |
-| --------- | ------ |
-| [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours |
-| [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc)                                | 6 hours  |
-| [Learn Git and Github](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) `[Optional]` | --- |
-
-### ***Tailwind CSS***
-
-#### ***Why Tailwind CSS over Bootstrap?***
-
-- **Highly customizable**
-- **Smaller file sizes**
-- **Mobile-first approach**
-- **No pre-existing design language**
-
-| Resources | Effort |
-| --------- | ------ |
-| [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook) | 100 seconds |
-| [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours     |
-| [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) `[Optional]` | 2 hours     |
+| ID | resources |
+| -- | -------- |
+| 1 | [template](../../../Tasks/TailwindCSS/Task1) |
+| 2 | [template](../../../Tasks/TailwindCSS/Task2) |
+| 3 | [template](../../../Tasks/TailwindCSS/Task3) |
+| 4 | [template](../../../Tasks/TailwindCSS/Task4) |
+| 5 | [template](../../../Tasks/TailwindCSS/Task5) |
