@@ -8,3 +8,7 @@ Are you looking to navigate the ever-evolving world of frontend development? Whe
 
 - [_2024_](/2024/)
 - [_2023_](/2023/)
+
+## **Contributing**
+
+If you have any suggestions or feedback, please feel free to submit a pull request or open an issue. Your contributions are always welcome!
