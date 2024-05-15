@@ -64,3 +64,53 @@ In this section, you will learn the basics of web development. You will learn ho
 - [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
 - [Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
 - [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/)
+
+### _Package Managers_
+
+- [NPM Crash Course](https://youtu.be/jHDhaSSKmB0?si=3Z9Z9ZQzQ7m7z9Z9)
+- [What is NPM, and why do we need it?](https://youtu.be/P3aKRdUyr0s?si=qGSv46N9W31rshMs)
+- [PNPM](https://pnpm.io/)
+- [Yarn](https://yarnpkg.com/)
+
+### _UI Frameworks_
+
+- [Tailwind CSS](https://frontendmasters.com/courses/tailwind-css/)
+- [Shadcn UI](https://youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma&si=gVsJErApGHHBb51p): skip it for now, you can learn it with Next.js
+- [Radix UI](https://www.radix-ui.com/): skip it for now, you can learn it with React
+
+## Advanced Web Development
+
+In this section, you will learn the advanced topics of web development. You will learn how to create a web application using React, Next.js, and other tools.
+
+### _React_
+
+#### _Udemy Path_
+
+- [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=LEADERSALE24B)
+
+#### _Frontend Masters + Youtube Path_
+
+- [Complete Intro to React, v8](https://frontendmasters.com/courses/complete-react-v8/)
+- [Intermediate React, v5](https://frontendmasters.com/courses/intermediate-react-v5/)
+- [Vite](https://frontendmasters.com/courses/vite/)
+- [React Router 6](https://youtu.be/nDGA3km5He4?si=MytquSoeu_lXnYXa)
+- [Zustand React State Management](https://youtu.be/fZPgBnL2x-Q?si=9LSpiZLopknCzPjp)
+- [Redux Fundamentals](https://frontendmasters.com/courses/redux-fundamentals/) Optional
+- [Advanced Redux with Redux Toolkit](https://frontendmasters.com/courses/advanced-redux/) Optional
+- [React Hook Form + Zod](https://youtu.be/7anLE_RoDwU?si=jdF0SnxzOJBe9MyG)
+- [React Axios API Requests](https://youtu.be/ZEKBDXGnD4s?si=tHfjrJerQ_DUUP7K)
+- [React Query](https://youtu.be/NOvx4LB6Hfk?si=NM3m4WA9QSH8K2C9)
+- [Client-Side GraphQL in React](https://frontendmasters.com/courses/client-graphql-react/)
+
+### _TypeScript_
+
+- [TypeScript 5+ Fundamentals, v4](https://frontendmasters.com/courses/typescript-v4/)
+- [Intermediate TypeScript, v2](https://frontendmasters.com/courses/intermediate-typescript-v2/)
+- [React and TypeScript, v2](https://frontendmasters.com/courses/react-typescript-v2/)
+
+### _Next.js_
+
+- [Introduction to Next.js 13+, v3](https://frontendmasters.com/courses/next-js-v3/)
+- [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=LEADERSALE24B)
+
+In this roadmap, I tried to include the most important topics that you need to learn to become a front-end developer from my point of view. Don't stop learning, keep practicing, and build projects. If you have any questions, feel free to ask me on [LinkedIn](https://www.linkedin.com/in/selimjs/).
